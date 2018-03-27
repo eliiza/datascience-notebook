@@ -2,6 +2,5 @@
 
 This extends jupyter-datascience with the following:
 
-- ssh
-- git
 - nbgitpuller
+- github
